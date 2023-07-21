@@ -1,1 +1,4 @@
-# RX_2023_Lets_Hack_Rock
+# RX 2023 Let's Hack Rock Resources
+
+- **Slide Deck:** RX 2023 Let's Hack Rock.pdf
+- **Takeaway:** RX 2023 Let's Hack Rock Takeaway.pdf
